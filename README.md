@@ -1,2 +1,1 @@
-# dubbo-examples
-alibaba dubbo use examples
+alibaba dubbo use samples
