@@ -1,0 +1,3 @@
+[submodule "incubator-dubbo"]
+	path = incubator-dubbo
+	url = ./incubator-dubbo
